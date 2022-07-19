@@ -15,7 +15,7 @@ function Container({
         {children}
       </div>
     </div>
-  );
+  ); 
 }
 
 export default Container;
